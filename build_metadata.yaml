@@ -1,0 +1,13 @@
+features:
+- demand_7d
+- demand_14d
+- demand_28d
+- cv_14d
+- days_of_cover
+- Inventory_Level
+- Order_Quantity
+input_file: C:\Users\NXTWAVE\Downloads\Stockout Forecasting\archive\supply_chain_dataset1.csv
+output_dir: C:\Users\NXTWAVE\Downloads\Stockout Forecasting
+versions:
+  numpy: 1.26.4
+  pandas: 2.3.2

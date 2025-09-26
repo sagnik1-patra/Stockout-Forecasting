@@ -1,0 +1,26 @@
+{
+  "top_risky_skus": {
+    "SKU_1": 0.0,
+    "SKU_43": 0.0,
+    "SKU_34": 0.0,
+    "SKU_35": 0.0,
+    "SKU_36": 0.0,
+    "SKU_37": 0.0,
+    "SKU_38": 0.0,
+    "SKU_39": 0.0,
+    "SKU_4": 0.0,
+    "SKU_40": 0.0
+  },
+  "demand_metrics": {
+    "mae": 4.117710684931506,
+    "rmse": 5.220014099597816
+  },
+  "stockout_metrics": {
+    "accuracy": 1.0,
+    "confusion_matrix": [
+      [
+        18250
+      ]
+    ]
+  }
+}
