@@ -1,4 +1,4 @@
-📦 Stockout Forecasting – Demand Prediction & Risk Analysis
+📦 Stockout Forecasting – Demand Prediction & Risk Analysis.
 📌 Overview
 
 This project predicts stockout risk at the SKU–location level and generates demand forecasts to help optimize replenishment decisions.
